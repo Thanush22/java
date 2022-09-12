@@ -7,6 +7,9 @@ public class details {
          roll.StaffId();
          roll.StaffName();
          roll.StaffDept();
+        roll.StudentId();
+        roll.StudentName();
+        roll.StudentDept();
 
     }
     public void CollegeName(){
@@ -14,7 +17,7 @@ public class details {
         System.out.println(CollegeName);
     }
     public void StaffId(){
-        String StaffId = "18oibm009";
+        String StaffId = "18OIBL009";
         System.out.println(StaffId);
     }
     public void StaffName(){
@@ -25,8 +28,17 @@ public class details {
         String StaffDept = "Computer Science";
         System.out.println(StaffDept);
     }
+    public void StudentId(){
+        String StudentId = "RA122003020388";
+            System.out.printn(StudentId);
+    }
     public void StudentName(){
-
+           String StudentName = "Vishwa";
+        System.out.printl(StudentName);
+    }
+    public void StudentDept(){
+        String StudentDept = "Computer Science";
+        System.out.println(StudentDept);
     }
 }
 
