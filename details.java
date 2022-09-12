@@ -30,11 +30,11 @@ public class details {
     }
     public void StudentId(){
         String StudentId = "RA122003020388";
-            System.out.printn(StudentId);
+            System.out.println(StudentId);
     }
     public void StudentName(){
            String StudentName = "Vishwa";
-        System.out.printl(StudentName);
+        System.out.println(StudentName);
     }
     public void StudentDept(){
         String StudentDept = "Computer Science";
